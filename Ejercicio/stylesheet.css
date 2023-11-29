@@ -1,0 +1,12 @@
+li{ background-color: bisque;
+    font-style: italic;
+    color: blue;
+    border: 5px solid  black;
+    text-align: center;
+
+}
+img{ margin: 15px;
+    border-radius: 0 15px 15px 0;
+#chosen{ color: rgb(38, 41, 39);
+    border-color: blue;
+}
